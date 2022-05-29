@@ -1,0 +1,20 @@
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.pdb

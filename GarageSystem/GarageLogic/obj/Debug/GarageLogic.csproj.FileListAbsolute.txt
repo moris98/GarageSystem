@@ -1,0 +1,11 @@
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\orisi\Desktop\Ori Coding things\IDC_C#_Course\HW3\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215\GarageLogic\obj\Debug\GarageLogic.pdb
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\obj\Debug\GarageLogic.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\User\Downloads\B22 Ex03 MorisGateno 312401987 OriSilberman 207082215-20220529T194055Z-001\GarageSystem\GarageLogic\obj\Debug\GarageLogic.pdb
